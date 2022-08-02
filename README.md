@@ -1,4 +1,4 @@
-### Hi, I'm Daniel python developer
+### Hi, I'm Daniel python student
 
 <!--
 **RRDaniel/RRDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
