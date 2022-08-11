@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://twitter.com/themonozilean "> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>  </a>
+
+# Algumas das tecnologias que estudo.
+<p display = 'inline-block'>
+  <img width = '48' src = 'https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png'>
+</p>
