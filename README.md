@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # Algumas das tecnologias que estudo.
-<p display = 'inline-block' margin-left = '10px'>
+<p display = 'inline-block'>
   <img width = '48' src = 'https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png'> 
   <img width = '48' src = 'https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png'> 
   <img width = '48' src = 'https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png'> 
